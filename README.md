@@ -1,0 +1,2 @@
+# djproj
+Django project
